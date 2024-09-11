@@ -1,0 +1,15 @@
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/bin/Debug/net8.0/PeopleCounter
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/bin/Debug/net8.0/PeopleCounter.deps.json
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/bin/Debug/net8.0/PeopleCounter.runtimeconfig.json
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/bin/Debug/net8.0/PeopleCounter.dll
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/bin/Debug/net8.0/PeopleCounter.pdb
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/obj/Debug/net8.0/PeopleCounter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/obj/Debug/net8.0/PeopleCounter.AssemblyInfoInputs.cache
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/obj/Debug/net8.0/PeopleCounter.AssemblyInfo.cs
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/obj/Debug/net8.0/PeopleCounter.csproj.CoreCompileInputs.cache
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/obj/Debug/net8.0/PeopleCounter.sourcelink.json
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/obj/Debug/net8.0/PeopleCounter.dll
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/obj/Debug/net8.0/refint/PeopleCounter.dll
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/obj/Debug/net8.0/PeopleCounter.pdb
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/obj/Debug/net8.0/PeopleCounter.genruntimeconfig.cache
+/workspaces/csharp-threads/PeopleCounter/PeopleCounter/obj/Debug/net8.0/ref/PeopleCounter.dll
